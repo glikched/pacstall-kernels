@@ -179,6 +179,8 @@ librewolf-deb
 libssl1.1-deb
 libxapp1-deb
 linked-deb
+linux-clear-kernel-bin
+linux-clear-headers-bin
 linux-headers-deb
 linux-headers-generic-arm64-deb
 linux-headers-generic-deb
