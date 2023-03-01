@@ -1,0 +1,8 @@
+name="linux-headers-generic-arm64-deb"
+gives="linux-headers-6.2.0-060200-generic"
+version="6.2"
+buildver="6.2.0-060200.202302191831"
+url="https://kernel.ubuntu.com/~kernel-ppa/mainline/v${version}/arm64/${gives}_${buildver}_arm64.deb"
+description="Ubuntu Linux mainline kernel (Generic headers)"
+hash="f09a3a4b3addaa6d4a26f4bc3e6dc36ad4e9eb7840bb44d3429677fcb3d01972"
+maintainer="Oren Klopfer <oren@taumoda.com>"

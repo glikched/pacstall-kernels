@@ -1,0 +1,9 @@
+name="google-earth-pro-stable-deb"
+pkgname="google-earth-pro-stable"
+version="7.3.6.9285"
+repology=("project: google-earth-pro")
+url="https://dl.google.com/dl/earth/client/current/google-earth-pro-stable_current_amd64.deb"
+breaks="${pkgname} ${pkgname}-git ${pkgname}-bin ${pkgname}-app ${pkgname}-deb"
+gives="${pkgname}"
+description="Renders a 3D representation of Earth based primarily on satellite imagery"
+hash="d345ee688720f6e1ed44f6a52f2a08518e3d88b746ba520cc2c8553ac070a6b3"

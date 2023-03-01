@@ -1,0 +1,10 @@
+name="neovim-deb"
+pkgname="neovim"
+gives="neovim"
+replace="nvim neovim-runtime"
+version="0.8.2"
+url="https://github.com/neovim/neovim/releases/download/v${version}/nvim-linux64.deb"
+hash="a2d82dd169a11408921db90060c93cafdec43507898fbb36bc9e88e483ee3dfa"
+description="Vim fork maintained by the community"
+repology=("project: ${pkgname}")
+maintainer="charitarthchugh <37895518+charitarthchugh@users.noreply.github.com>"

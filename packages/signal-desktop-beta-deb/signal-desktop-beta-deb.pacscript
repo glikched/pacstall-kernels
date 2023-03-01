@@ -1,0 +1,10 @@
+name="signal-desktop-beta-deb"
+pkgname="signal-desktop-beta"
+repology=("project: signal-desktop" "visiblename: ${pkgname}-bin")
+gives="${pkgname}"
+breaks="${pkgname}-app"
+version="6.2.0-beta.2"
+url="https://updates.signal.org/desktop/apt/pool/main/s/${gives}/${gives}_${version}_amd64.deb"
+description="Signal Private Messenger for Linux (Beta)"
+hash="355c17db11bc40656310dcba7d2035dd64324e562e1797eb712ddab030e0e089"
+maintainer="Jon Banafato <pacstall@jonafato.com>"

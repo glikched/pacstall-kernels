@@ -1,0 +1,8 @@
+name="linux-image-unsigned-arm64-deb"
+gives="linux-image-unsigned-6.2.0-060200-generic"
+version="6.2"
+buildver="6.2.0-060200.202302191831"
+url="https://kernel.ubuntu.com/~kernel-ppa/mainline/v${version}/arm64/${gives}_${buildver}_arm64.deb"
+description="Ubuntu Linux mainline kernel (Image)"
+hash="34da66b6cb915efc16b8bf48b30f09be88306b9ec8ee18c983fa403b20933e3c"
+maintainer="Oren Klopfer <oren@taumoda.com>"

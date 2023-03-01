@@ -1,0 +1,8 @@
+name="linux-headers-generic-deb"
+gives="linux-headers-6.2.0-060200-generic"
+version="6.2"
+buildver="6.2.0-060200.202302191831"
+url="https://kernel.ubuntu.com/~kernel-ppa/mainline/v${version}/amd64/${gives}_${buildver}_amd64.deb"
+description="Ubuntu Linux mainline kernel (Generic headers)"
+hash="b4390bc6286dfc1f1f5103da178bc1fde1bcca902fc5170a00818b9fa549ec73"
+maintainer="http.llamaz <chadano@llamawebdesign.co.uk>, Oren Klopfer <oren@taumoda.com>"

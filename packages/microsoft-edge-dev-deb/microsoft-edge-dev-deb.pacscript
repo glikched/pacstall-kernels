@@ -1,0 +1,9 @@
+name="microsoft-edge-dev-deb"
+gives="microsoft-edge-dev"
+replace="${gives}"
+repology=("project: ${gives}")
+version="112.0.1698.0"
+url="https://packages.microsoft.com/repos/edge/pool/main/m/${gives}/${gives}_${version}-1_amd64.deb"
+description="The web browser from Microsoft - Developer channel"
+hash="cccaa88ff8efb020817c950ddb1f2fec15afa27ec02507af59cc806afe2c4c98"
+maintainer="WRM-42 <y8bsbahy@anonaddy.me>"
